@@ -5,7 +5,7 @@ tags : [beginner, tutorial]
 ---
 {% include JB/setup %}
 
-## prerequisite
+### prerequisite
 
 nginx needs the following libraries, they must first be installed on the system
 
@@ -18,7 +18,7 @@ download and install these libraries:
     tar -zxvf package.tar.gz
     make && make install
 
-## install nginx
+### install nginx
 
 download the nginx source package from the official website and run the following command
 
